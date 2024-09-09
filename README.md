@@ -53,10 +53,12 @@ Para ejecutar esta aplicación en tu entorno de desarrollo:
 
 1. **Clona el Repositorio**:
    ```bash
-   git clone 
+   git clone https://github.com/kevinAnilema/Calculadora.git
 
 2. **Instala las Dependencias:**:
+    ```bash
     npm install
 
 3. **Ejecutar la aplicacion**
-    npm expo start
+    ```bash
+    npx expo start
